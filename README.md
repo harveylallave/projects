@@ -1,8 +1,9 @@
 # Projects
 
 The following are projects I have developed for different companies/clients.
-
 This list is sorted by the project's date of implementation.
+
+Click [here](https://github.com/harveylallave/projects/blob/main/assets/Harvey%20Lallave%20-%20Resume.pdf) to see my resume and contact details.
 
 ## 1. Sole Full Stack Web Developer
 ### Private Construction Company (https://dev-harveylallave.pantheonsite.io/ - development site)
