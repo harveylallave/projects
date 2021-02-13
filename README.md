@@ -5,7 +5,7 @@ The following are projects I have developed for different companies/clients.
 This list is sorted by the project's date of implementation.
 
 ## 1. Sole Full Stack Web Developer
-### Private Construction Company (https://dev-harveylallave.pantheonsite.io/ - Dev site)
+### Private Construction Company (https://dev-harveylallave.pantheonsite.io/ - development site)
 #### June 2020 - August 2020
 ###### (PHP, Wordpress, Elementor, HTML/CSS/JS)
 
