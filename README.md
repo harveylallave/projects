@@ -46,7 +46,7 @@ Click [here](https://github.com/harveylallave/projects/blob/main/assets/Harvey%2
 ## 5. Lead Backend Web Developer
 ### Dthree Digital
 #### June 2020 - August 2020
-###### (PHP, Wordpress, HTML/CSS/JS)
+###### (PHP, Wordpress, Bootstrap, HTML/CSS/JS)
 
 ###### Lead backend web developer for developing a web-sleuthing website application. Developed the system while being an intern; this system exhibits similar features as to how a forum site works.
 
