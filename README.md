@@ -22,7 +22,17 @@ Click [here](https://github.com/harveylallave/projects/blob/main/assets/Harvey%2
 
 ![LoveYourself Inc. Collage](https://github.com/harveylallave/projects/blob/main/assets/LoveYourself%20Inc/collage.jpg?raw=true)
 
-## 3. Sole Full Stack Web Developer
+## 3. Backend Developer - Thesis
+### NEC Corporation (https://youtu.be/lACX918pZzk?t=2042 - demo)
+#### January 2019 - December 2019
+###### (PHP, Wordpress, Bootstrap, HTML/CSS/JS)
+
+###### One of the back end developers in developing Vi, a peer-based robotic tutoring system for first grade mathematics. The system is integrated to a robotic platform called PaPeRo through a given API provided by the manufacturer of the robot, NEC Corporation.
+
+
+![PaPeRo and Web Module](https://github.com/harveylallave/projects/blob/main/assets/PaPeRo%20NEC/PaPeRo%20and%20web%20module.png?raw=true)
+
+## 4. Sole Full Stack Web Developer
 ### Vista Green Group (http://www.vistagreen.net/)
 #### November 2018 - March 2019
 ###### (PHP, Wordpress, Bootstrap, HTML/CSS/JS)
@@ -32,7 +42,7 @@ Click [here](https://github.com/harveylallave/projects/blob/main/assets/Harvey%2
 
 ![Vista Green Group Collage](https://github.com/harveylallave/projects/blob/main/assets/VistaGreen/collage.jpg?raw=true)
 
-## 4. Lead Full Stack Web Developer
+## 5. Lead Full Stack Web Developer
 ### iBoost Systems Limited 
 #### May 2018 - July 2018
 ###### (PHP, Wordpress, HTML/CSS/JS)
@@ -43,7 +53,7 @@ Click [here](https://github.com/harveylallave/projects/blob/main/assets/Harvey%2
 ![iBoost Systems Limited Collage](https://github.com/harveylallave/projects/blob/main/assets/iBoost%20Site/collage.jpg?raw=true)
 
 
-## 5. Lead Backend Web Developer
+## 6. Lead Backend Web Developer
 ### Dthree Digital
 #### June 2020 - August 2020
 ###### (PHP, Wordpress, Bootstrap, HTML/CSS/JS)
