@@ -25,7 +25,7 @@ Click [here](https://github.com/harveylallave/projects/blob/main/assets/Harvey%2
 ## 3. Backend Developer - Thesis
 ### NEC Corporation (https://youtu.be/lACX918pZzk?t=2042 - demo)
 #### January 2019 - December 2019
-###### (PHP, Wordpress, Bootstrap, HTML/CSS/JS)
+###### (Node JS, C++, HTML/CSS/JS)
 
 ###### One of the back end developers in developing Vi, a peer-based robotic tutoring system for first grade mathematics. The system is integrated to a robotic platform called PaPeRo through a given API provided by the manufacturer of the robot, NEC Corporation.
 
